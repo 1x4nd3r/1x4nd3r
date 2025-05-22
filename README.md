@@ -1,8 +1,8 @@
-### Hi, I'm Alexander! >_<
+### Hi :3
 
 [](https://github.com/1x4nd3r#hi-im-alexander-_)
 
-I'm a hobby developer. My programming journey started in middle-school and now I'm 17 years old. We learnt block coding in Scratch and It immediately sparked my interest. After having made multiple games, I soon craved more challenges and found Python. In high school, I started getting more into development. I learnt HTML and CSS and to some extent JS but what really called to me was C++. I wanted to try new things, explore and so I tried new languages. Learning new things is my main goal with all this.
+I'm Alexander, a hobby developer. My programming journey started in middle-school and now I'm 17 years old. We learnt block coding in Scratch and It immediately sparked my interest. After having made multiple games, I soon craved more challenges and found Python. In high school, I started getting more into development. I learnt HTML and CSS and to some extent JS but what really called to me was C++. I wanted to try new things, explore and so I tried new languages. Learning new things is my main goal with all this.
 
 ---
 
